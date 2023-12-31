@@ -1,7 +1,7 @@
 ### About Me 🧑‍💻
 
 
-![tumblr_7608bbbac5010ead62e76061d5adf826_2c135339_500](https://github.com/EmpireAbdi/EmpireAbdi/assets/105794216/c62a3580-0657-42c9-a415-d4900e8c2b33)
+![giphy](https://github.com/ArashAbdii/ArashAbdii/assets/105794216/3f6f049e-b545-4600-bc6f-8cca402dc48f)
 
 
 ## Description
