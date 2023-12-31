@@ -18,4 +18,4 @@ Hi there 👋, my name is Arash Abdi I'm from Iran and I love programming as a b
 
 ### Socials
 
-<p align="left"> <a href="http://www.instagram.com/empire_arash" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
+#### <a href="https://www.instagram.com/empire_arash">Instagram</a>
