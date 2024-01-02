@@ -1,8 +1,6 @@
 ### About Me 🧑‍💻
 
-
-![giphy](https://github.com/ArashAbdii/ArashAbdii/assets/105794216/3f6f049e-b545-4600-bc6f-8cca402dc48f)
-
+<img src="https://github.com/ArashAbdii/ArashAbdii/assets/105794216/3f6f049e-b545-4600-bc6f-8cca402dc48f" style="width: 200px; height: 250px; text-align: center; right:auto">
 
 ## Description
 
