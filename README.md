@@ -6,7 +6,7 @@
 
 👋 Hi there , my name is Arash Abdi I'm from Iran and I love programming as a backend developer
 
-🚀 I'm currently working on <a href="https://github.com/ArashAbdii/IranArt">IranArt</a>
+🚀 I'm currently learning Javascript for <b>big ideas</b>
 
 ### Skills
 
