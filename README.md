@@ -2,7 +2,7 @@
 ### It's me <strong>Arash Abdi</strong> (Freelancer) 👨‍💻.
 A web developer with Wordpress (CMS) 🌐.
 <br>
-### Intrests:
+### Interests:
 - 🧟 Coding
 - 💥 Books
 - 😇 Making content ( <a href="www.linkedin.com/in/arash-abdi">Linkedin</a> )
