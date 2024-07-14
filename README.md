@@ -11,7 +11,7 @@ A web developer with Wordpress (CMS) 🌐.
 
 ### <b>$KILLS</b>
 - Wordpress
-- HTML & CSS
+- (Basic) HTML & CSS
 - (Basic) Illustrator & PhotoShop
 
 ### <strong>Don't think too much about the future, just keep going</strong> 
