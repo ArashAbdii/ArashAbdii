@@ -1,20 +1,34 @@
-## Hi there 👋
-### It's me <strong>Arash Abdi</strong> (Freelancer) 👨‍💻.
-A web developer with Wordpress (CMS) 🌐.
-<br>
-### Interests:
-- 🧟 Coding
-- 💥 Books
-- 😇 Making content ( <a href="www.linkedin.com/in/arash-abdi">Linkedin</a> )
-- 🏃‍♂️ Running ( <a href="https://strava.app.link/Rt5q0kMP8Kb">Strava</a> )
--  more ... 
 
-### <b>$KILLS</b>
-- Wordpress
-- (Basic) HTML & CSS
-- (Basic) Illustrator & PhotoShop
+<img src="https://github.com/user-attachments/assets/1ceef4c6-b6da-49f9-8acc-6ad26fc19d0a" width=500 align=right>
 
-### <strong>Don't think too much about the future, just keep going</strong> 
+
+<b>👨‍💻 Hi there! It's me Arash Abdi</b>
+<p>🌐 A Web developer</p>
+<p>🏃‍♂️ Interested in running</p>
+<p>🎥 Interested in creating content</p>
+<p>🎯 Interested in Software Engineering</p>
+<p>♾️ Communication</p>
+
+<h2>My Activities</h2>
+
+<div align="center">
+  
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width=50 />
+
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width=50 />
+          
+          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=50 />
+
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width=50 />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArashAbdii&show_icons=true&bg_color=00000000)
+
+</div>
+
 <!--
 
 **ArashAbdii/ArashAbdii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
