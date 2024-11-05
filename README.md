@@ -4,7 +4,7 @@
 
 <b>👨‍💻 Hi there! It's me Arash Abdi</b>
 <p>🌐 A Web developer</p>
-<p>🏃‍♂️ Interested in running</p>
+<p>🤼 Interested in wrestling</p>
 <p>🎥 Interested in creating content</p>
 <p>🎯 Interested in Software Engineering</p>
 <p>♾️ Communication</p>
