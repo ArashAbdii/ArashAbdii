@@ -1,5 +1,5 @@
 
-<img src="https://github.com/user-attachments/assets/1ceef4c6-b6da-49f9-8acc-6ad26fc19d0a" width=500 align=right>
+<img src="https://i.imgur.com/4puTeXu.gif" width=500 align=right>
 
 
 <b>👨‍💻 Hi there! It's me Arash Abdi</b>
