@@ -25,17 +25,21 @@
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width=50 />
 
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg" width=50 />
+  
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dot-net/dot-net-original.svg" width=50 />
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArashAbdii&show_icons=true&bg_color=00000000)
 
 </div>
 
+<h4>🔭 I’m currently working with C#/.NET on Telegram Bot 🤖 </h4>
 <!--
 
 **ArashAbdii/ArashAbdii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ..
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
