@@ -30,7 +30,6 @@
 
 </div>
 
-<h4>🔭 I’m currently working with C#/.NET on Telegram Bot 🤖 </h4>
 <!--
 
 **ArashAbdii/ArashAbdii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
